@@ -1,2 +1,2 @@
 # wordcounter
-code counts words of user given paragraph
+code counts words and characters of user given paragraph
